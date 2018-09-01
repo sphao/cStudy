@@ -2,13 +2,11 @@
 * @Author: sphao
 * @Date:   2018-08-25 19:03:46
 * @Last Modified by:   sphao
-* @Last Modified time: 2018-08-26 10:57:16
+* @Last Modified time: 2018-09-01 19:10:16
 */
 
 #include <cstdio>
 #include <cmath>
-
-
 
 int main(int argc, char const *argv[])
 {
